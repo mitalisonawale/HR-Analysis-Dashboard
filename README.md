@@ -1,0 +1,1 @@
+This project is an HR Analysis Dashboard built using Power BI. It Involve analysing HR data including salary , education , attrition and demographics . It helps HR to understand employee trends and workforce distribution.
