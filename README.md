@@ -22,8 +22,8 @@ Employee attrition is a key challenge for organizations as it directly affects p
 
 | Category | Tools |
 |--------|------|
-| 📊 Data Analysis | Excel, SQL |
-| 🧹 Data Cleaning | Excel |
+| 📊 Data Analysis | Power BI |
+| 🧹 Data Cleaning | Power BI |
 | 📈 Visualization | Power BI |
 | 🔍 Data Insights | Descriptive & Diagnostic Analytics |
 | 🧠 Business Actions | Attrition reduction strategies |
